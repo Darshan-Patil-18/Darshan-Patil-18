@@ -83,17 +83,17 @@
   </g>
   <g class="reveal">
     <text x="462" y="276" class="key">Backend</text>
-    <text x="562" y="276" class="val">Flask · Streamlit</text>
+    <text x="562" y="276" class="val">Flask · Streamlit · Supabase</text>
     <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.15s" fill="freeze"/>
   </g>
   <g class="reveal">
     <text x="462" y="300" class="key">AI/ML</text>
-    <text x="562" y="300" class="val">Scikit-learn · Pandas · NumPy · MatplotLib · Seaborn </text>
+    <text x="562" y="300" class="val">Scikit-learn · XGBoost · NLP · Keras · TensorFlow</text>
     <animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.15s" fill="freeze"/>
   </g>
   <g class="reveal">
-    <text x="462" y="324" class="key">Data</text>
-    <text x="562" y="324" class="val">Supabase</text>
+    <text x="462" y="324" class="key">EDA</text>
+    <text x="562" y="324" class="val"> Pandas · NumPy · MatplotLib · Seaborn</text>
     <animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.15s" fill="freeze"/>
   </g>
   <g class="reveal">
